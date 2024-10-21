@@ -1,2 +1,2 @@
-név:
-osztály:
+név: Hevesi Balazs
+osztály: 10C
